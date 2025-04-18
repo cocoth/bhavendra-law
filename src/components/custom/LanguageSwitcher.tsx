@@ -50,7 +50,7 @@ export default function LanguageSwitcher() {
         {selectedLanguage.toUpperCase()}
       </button>
       {isOpen && (
-        <Card className="absolute top-[3rem] right-0 mt-2 py-1 gap-0 w-40 bg-white border border-gray-300 rounded-xl shadow-lg z-10">
+        <Card className="absolute top-[2.8rem] md:top-12 right-0 mt-2 py-1 gap-0 w-40 bg-white border border-gray-300 rounded-xl shadow-lg z-10">
           {languages.map((lang) => (
             <Button
               key={lang.code}

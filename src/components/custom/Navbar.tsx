@@ -85,7 +85,7 @@ const Navbar = () => {
                     <ul>
                         <div
                             onClick={() => setHamburger(!hamburger)}
-                            className={`${hamburger ? 'md:hidden fixed top-[4.5rem] z-20 rounded-bl-lg border-s border-b  right-0 h-max w-40 text-white dark:bg-gray-800/70 backdrop-blur-md shadow-lg flex flex-col space-y-4 items-end p-4 transform translate-x-0 transition-transform duration-300' : 'md:hidden fixed top-[4.5rem] z-20 rounded-bl-lg border-s border-b  right-0 h-max w-40 text-white dark:bg-gray-800/70 backdrop-blur-md shadow-lg flex flex-col space-y-4 items-end p-4 transform translate-x-full transition-transform duration-300'}`}
+                            className={`${hamburger ? 'md:hidden fixed top-[4rem] z-20 rounded-bl-lg border-s border-b  right-0 h-max w-40 text-black bg-white/70 dark:bg-gray-800/70 backdrop-blur-md shadow-lg flex flex-col space-y-4 items-end p-4 transform translate-x-0 transition-transform duration-300' : 'md:hidden fixed top-[4rem] z-20 rounded-bl-lg border-s border-b  right-0 h-max w-40 text-black bg-white/70 dark:bg-gray-800/70 backdrop-blur-md shadow-lg flex flex-col space-y-4 items-end p-4 transform translate-x-full transition-transform duration-300'}`}
                         >
                             {navbarItems.map((item) => (
                                 <li
