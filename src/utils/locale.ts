@@ -1,6 +1,6 @@
-'use client';
+"use client";
 
-import { locales, Locale } from '@/i18n/config';
+import { locales, Locale } from "@/i18n/config";
 
 export function setLocale(locale: Locale) {
   if (!locales.includes(locale)) {
@@ -18,4 +18,10 @@ export function getCurrentLocaleFromCookie(): Locale | null {
   const locale = match?.[1] as Locale | undefined;
 
   return locale && locales.includes(locale) ? locale : null;
+}
+
+export function getPreferedLocale(): Locale | null {
+  const acceptLang = navigator.language || navigator.languages[0] || "";
+  const preferredLang = acceptLang.split("-")[0];
+  return preferredLang as Locale;
 }

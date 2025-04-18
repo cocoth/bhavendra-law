@@ -3,6 +3,8 @@
 import { Locale } from '@/i18n/config';
 import { getCurrentLocaleFromCookie, setLocale } from '@/utils/locale';
 import { useState, useEffect, useRef } from 'react';
+import { Card } from '../ui/card';
+import { Button } from '../ui/button';
 
 export default function LanguageSwitcher() {
   const [isOpen, setIsOpen] = useState(false);
@@ -48,17 +50,17 @@ export default function LanguageSwitcher() {
         {selectedLanguage.toUpperCase()}
       </button>
       {isOpen && (
-        <div className="absolute right-0 mt-2 w-40 bg-white border border-gray-300 rounded shadow-lg z-10">
+        <Card className="absolute top-[3rem] right-0 mt-2 py-1 gap-0 w-40 bg-white border border-gray-300 rounded-xl shadow-lg z-10">
           {languages.map((lang) => (
-            <button
+            <Button
               key={lang.code}
               onClick={() => handleLanguageChange(lang.code as Locale)}
-              className="block w-full px-4 py-2 text-left hover:bg-gray-100 transition cursor-pointer"
+              className="block w-full px-4 py-2 text-left text-black bg-white hover:bg-gray-100 transition cursor-pointer"
             >
               {lang.label}
-            </button>
+            </Button>
           ))}
-        </div>
+        </Card>
       )}
     </div>
   );
