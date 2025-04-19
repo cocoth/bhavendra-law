@@ -1,8 +1,88 @@
 {
-    "HomePage": {
+    "common": {
+      "language": "Bahasa",
+      "home": "Beranda",
+      "services": "Layanan",
+      "portfolio": "Portofolio",
+      "about": "Tentang Kami",
+      "contact": "Hubungi Kami"
+    },
+    "home": {
+      "hero": {
         "title": "Solusi Bisnis Legal Terpercaya",
-        "description": "This is the home page of our application.",
-        "cta": "Hubungi Kami"
+        "subtitle": "Kami membantu bisnis Anda berkembang dengan landasan hukum yang kuat. Percayakan kebutuhan legal Anda pada tim ahli kami.",
+        "contactButton": "Hubungi Kami",
+        "servicesButton": "Layanan Kami",
+        "trustedLabel": "Terpercaya",
+        "trustedText": "Dipercaya oleh berbagai perusahaan dan institusi terkemuka"
+      },
+      "whyChooseUs": {
+        "title": "Mengapa Memilih Kami?",
+        "subtitle": "Meskipun kami adalah konsultan legal yang baru berdiri, kami memiliki keunggulan yang membuat kami menjadi pilihan tepat untuk kebutuhan hukum bisnis Anda",
+        "expertTeam": "Tim Ahli Berpengalaman",
+        "expertTeamDesc": "Tim kami terdiri dari para profesional hukum yang berpengalaman di berbagai bidang hukum bisnis",
+        "personalApproach": "Pendekatan Personal",
+        "personalApproachDesc": "Kami memberikan perhatian penuh pada setiap klien dengan pendekatan yang disesuaikan dengan kebutuhan spesifik Anda",
+        "innovativeSolutions": "Solusi Inovatif",
+        "innovativeSolutionsDesc": "Kami menggabungkan pengetahuan hukum dengan pendekatan inovatif untuk memberikan solusi terbaik bagi klien kami"
+      },
+      "portfolio": {
+        "title": "Portofolio Kami",
+        "subtitle": "PT Bhavendra Legal Konsultan telah dipercaya oleh berbagai perusahaan dan institusi terkemuka",
+        "corporateClients": "Klien Korporasi",
+        "institutionalClients": "Klien Institusi"
+      },
+      "testimonials": {
+        "title": "Apa Kata Klien Kami",
+        "subtitle": "Kami bangga telah membantu berbagai perusahaan dalam menyelesaikan tantangan hukum mereka"
+      },
+      "services": {
+        "title": "Layanan Kami",
+        "subtitle": "Kami menawarkan berbagai layanan hukum komprehensif untuk memenuhi kebutuhan bisnis Anda",
+        "learnMore": "Pelajari Lebih Lanjut",
+        "viewAllServices": "Lihat Semua Layanan",
+        "businessLegalConsultation": "Konsultasi Hukum Bisnis",
+        "businessLegalConsultationDesc": "Konsultasi komprehensif untuk berbagai aspek hukum bisnis, termasuk pendirian, restrukturisasi, dan pengembangan perusahaan.",
+        "contractsAgreements": "Kontrak & Perjanjian",
+        "contractsAgreementsDesc": "Penyusunan, peninjauan, dan negosiasi berbagai jenis kontrak bisnis untuk melindungi kepentingan perusahaan Anda.",
+        "litigationArbitration": "Litigasi & Arbitrase",
+        "litigationArbitrationDesc": "Representasi hukum dalam penyelesaian sengketa bisnis melalui litigasi di pengadilan atau melalui arbitrase.",
+        "employmentLaw": "Hukum Ketenagakerjaan",
+        "employmentLawDesc": "Konsultasi dan pendampingan dalam masalah ketenagakerjaan, termasuk penyusunan peraturan perusahaan dan penyelesaian perselisihan.",
+        "intellectualProperty": "Kekayaan Intelektual",
+        "intellectualPropertyDesc": "Pendaftaran dan perlindungan hak kekayaan intelektual, termasuk merek dagang, hak cipta, dan paten.",
+        "legalCompliance": "Kepatuhan Hukum",
+        "legalComplianceDesc": "Memastikan bisnis Anda mematuhi peraturan dan regulasi yang berlaku untuk menghindari risiko hukum."
+      },
+      "cta": {
+        "title": "Mulai Perjalanan Hukum Bisnis Anda",
+        "subtitle": "Meskipun kami adalah firma hukum yang baru, kami berkomitmen untuk memberikan layanan hukum berkualitas tinggi dengan pendekatan yang segar dan inovatif. Jadwalkan konsultasi gratis dengan tim kami hari ini.",
+        "button": "Konsultasi Gratis"
+      }
+    },
+    "about": {
+      "hero": {
+        "title": "Tentang Kami",
+        "subtitle": "Mengenal lebih dekat PT Bhavendra Legal Konsultan, mitra tepercaya untuk solusi hukum bisnis Anda"
+      },
+      "story": {
+        "title": "Cerita Kami",
+        "foundedYear": "2024",
+        "foundedLabel": "Tahun Didirikan",
+        "paragraph1": "PT Bhavendra Legal Konsultan didirikan pada tahun 2024 oleh sekelompok pengacara berpengalaman yang memiliki visi untuk menyediakan layanan hukum berkualitas tinggi yang terjangkau bagi bisnis kecil dan menengah di Indonesia.",
+        "paragraph2": "Nama \"Bhavendra\" berasal dari bahasa Sansekerta yang berarti \"Raja Kebenaran\", mencerminkan komitmen kami untuk menjunjung tinggi kebenaran dan integritas dalam setiap aspek praktik hukum kami.",
+        "paragraph3": "Meskipun baru berdiri, kami memiliki tim yang terdiri dari pengacara dan konsultan hukum berpengalaman yang berdedikasi untuk memberikan solusi hukum terbaik bagi klien kami."
+      }
+    },
+    "portfolio": {
+      "hero": {
+        "title": "Portofolio Kami",
+        "subtitle": "Melihat rekam jejak kami dalam memberikan solusi hukum terbaik untuk klien-klien kami"
+      },
+      "clients": {
+        "title": "Klien Kami",
+        "subtitle": "PT Bhavendra Legal Konsultan telah dipercaya oleh berbagai perusahaan dan institusi terkemuka di Indonesia"
+      }
     }
-
-}
+  }
+  

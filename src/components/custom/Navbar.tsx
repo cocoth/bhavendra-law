@@ -66,7 +66,7 @@ const Navbar = () => {
                                 alt="logo"
                                 className="h-12 w-12 md:h-14 md:w-14 rounded-full"
                             />
-                            <p className='hidden md:block font-poppins font-bold text-2xl'>
+                            <p className='block font-poppins font-bold text-xl md:text-2xl'>
                                 Bhavendra
                             </p>
                         </Link>

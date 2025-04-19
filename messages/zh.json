@@ -1,6 +1,88 @@
 {
-    "HomePage":{
+    "common": {
+      "language": "语言",
+      "home": "首页",
+      "services": "服务",
+      "portfolio": "作品集",
+      "about": "关于我们",
+      "contact": "联系我们"
+    },
+    "home": {
+      "hero": {
         "title": "值得信赖的法律业务解决方案",
-        "description": "Ini adalah halaman utama aplikasi kami."
+        "subtitle": "我们帮助您的企业在坚实的法律基础上成长。将您的法律需求交给我们的专家团队。",
+        "contactButton": "联系我们",
+        "servicesButton": "我们的服务",
+        "trustedLabel": "值得信赖",
+        "trustedText": "受到各种领先公司和机构的信任"
+      },
+      "whyChooseUs": {
+        "title": "为什么选择我们？",
+        "subtitle": "虽然我们是新成立的法律顾问，但我们拥有使我们成为您业务法律需求的正确选择的优势",
+        "expertTeam": "经验丰富的专家团队",
+        "expertTeamDesc": "我们的团队由在商业法各个领域经验丰富的法律专业人士组成",
+        "personalApproach": "个性化方法",
+        "personalApproachDesc": "我们全心关注每位客户，采用针对您特定需求量身定制的方法",
+        "innovativeSolutions": "创新解决方案",
+        "innovativeSolutionsDesc": "我们将法律知识与创新方法相结合，为客户提供最佳解决方案"
+      },
+      "portfolio": {
+        "title": "我们的作品集",
+        "subtitle": "PT Bhavendra Legal Konsultan 受到各种领先公司和机构的信任",
+        "corporateClients": "企业客户",
+        "institutionalClients": "机构客户"
+      },
+      "testimonials": {
+        "title": "客户评价",
+        "subtitle": "我们很自豪能帮助各种公司解决他们的法律挑战"
+      },
+      "services": {
+        "title": "我们的服务",
+        "subtitle": "我们提供全面的法律服务，满足您的业务需求",
+        "learnMore": "了解更多",
+        "viewAllServices": "查看所有服务",
+        "businessLegalConsultation": "商业法律咨询",
+        "businessLegalConsultationDesc": "为商业法律的各个方面提供全面咨询，包括公司成立、重组和发展。",
+        "contractsAgreements": "合同与协议",
+        "contractsAgreementsDesc": "起草、审查和协商各类商业合同，保护您公司的利益。",
+        "litigationArbitration": "诉讼与仲裁",
+        "litigationArbitrationDesc": "通过法院诉讼或仲裁解决商业纠纷的法律代理。",
+        "employmentLaw": "劳动法",
+        "employmentLawDesc": "就就业事宜提供咨询和协助，包括起草公司规章制度和解决纠纷。",
+        "intellectualProperty": "知识产权",
+        "intellectualPropertyDesc": "注册和保护知识产权，包括商标、版权和专利。",
+        "legalCompliance": "法律合规",
+        "legalComplianceDesc": "确保您的业务符合适用法规，避免法律风险。"
+      },
+      "cta": {
+        "title": "开始您的商业法律之旅",
+        "subtitle": "虽然我们是一家新的律师事务所，但我们致力于以新鲜和创新的方法提供高质量的法律服务。今天就与我们的团队安排免费咨询。",
+        "button": "免费咨询"
+      }
+    },
+    "about": {
+      "hero": {
+        "title": "关于我们",
+        "subtitle": "了解 PT Bhavendra Legal Konsultan，您值得信赖的商业法律解决方案合作伙伴"
+      },
+      "story": {
+        "title": "我们的故事",
+        "foundedYear": "2024",
+        "foundedLabel": "成立年份",
+        "paragraph1": "PT Bhavendra Legal Konsultan 成立于2024年，由一群经验丰富的律师创立，他们的愿景是为印度尼西亚的中小型企业提供负担得起的高质量法律服务。",
+        "paragraph2": "\"Bhavendra\"这个名字来源于梵语，意为\"真理之王\"，反映了我们在法律实践的各个方面坚持真理和诚信的承诺。",
+        "paragraph3": "虽然新成立，但我们拥有一支由经验丰富的律师和法律顾问组成的团队，致力于为客户提供最佳法律解决方案。"
+      }
+    },
+    "portfolio": {
+      "hero": {
+        "title": "我们的作品集",
+        "subtitle": "查看我们为客户提供最佳法律解决方案的记录"
+      },
+      "clients": {
+        "title": "我们的客户",
+        "subtitle": "PT Bhavendra Legal Konsultan 受到印度尼西亚各种领先公司和机构的信任"
+      }
     }
-}
+  }
+  

@@ -1,6 +1,88 @@
 {
-    "HomePage": {
-        "title": "Welcome to the Home Page",
-        "description": "This is the home page of our application."
+    "common": {
+      "language": "Language",
+      "home": "Home",
+      "services": "Services",
+      "portfolio": "Portfolio",
+      "about": "About Us",
+      "contact": "Contact Us"
+    },
+    "home": {
+      "hero": {
+        "title": "Trusted Legal Business Solutions",
+        "subtitle": "We help your business grow with a strong legal foundation. Trust your legal needs to our expert team.",
+        "contactButton": "Contact Us",
+        "servicesButton": "Our Services",
+        "trustedLabel": "Trusted",
+        "trustedText": "Trusted by various leading companies and institutions"
+      },
+      "whyChooseUs": {
+        "title": "Why Choose Us?",
+        "subtitle": "Although we are a newly established legal consultant, we have advantages that make us the right choice for your business legal needs",
+        "expertTeam": "Experienced Expert Team",
+        "expertTeamDesc": "Our team consists of legal professionals experienced in various fields of business law",
+        "personalApproach": "Personal Approach",
+        "personalApproachDesc": "We give full attention to each client with an approach tailored to your specific needs",
+        "innovativeSolutions": "Innovative Solutions",
+        "innovativeSolutionsDesc": "We combine legal knowledge with innovative approaches to provide the best solutions for our clients"
+      },
+      "portfolio": {
+        "title": "Our Portfolio",
+        "subtitle": "PT Bhavendra Legal Konsultan has been trusted by various leading companies and institutions",
+        "corporateClients": "Corporate Clients",
+        "institutionalClients": "Institutional Clients"
+      },
+      "testimonials": {
+        "title": "What Our Clients Say",
+        "subtitle": "We are proud to have helped various companies resolve their legal challenges"
+      },
+      "services": {
+        "title": "Our Services",
+        "subtitle": "We offer a range of comprehensive legal services to meet your business needs",
+        "learnMore": "Learn More",
+        "viewAllServices": "View All Services",
+        "businessLegalConsultation": "Business Legal Consultation",
+        "businessLegalConsultationDesc": "Comprehensive consultation for various aspects of business law, including establishment, restructuring, and company development.",
+        "contractsAgreements": "Contracts & Agreements",
+        "contractsAgreementsDesc": "Drafting, reviewing, and negotiating various types of business contracts to protect your company's interests.",
+        "litigationArbitration": "Litigation & Arbitration",
+        "litigationArbitrationDesc": "Legal representation in business dispute resolution through court litigation or arbitration.",
+        "employmentLaw": "Employment Law",
+        "employmentLawDesc": "Consultation and assistance in employment matters, including drafting company regulations and dispute resolution.",
+        "intellectualProperty": "Intellectual Property",
+        "intellectualPropertyDesc": "Registration and protection of intellectual property rights, including trademarks, copyrights, and patents.",
+        "legalCompliance": "Legal Compliance",
+        "legalComplianceDesc": "Ensuring your business complies with applicable regulations to avoid legal risks."
+      },
+      "cta": {
+        "title": "Start Your Business Legal Journey",
+        "subtitle": "Although we are a new law firm, we are committed to providing high-quality legal services with a fresh and innovative approach. Schedule a free consultation with our team today.",
+        "button": "Free Consultation"
+      }
+    },
+    "about": {
+      "hero": {
+        "title": "About Us",
+        "subtitle": "Get to know PT Bhavendra Legal Konsultan, your trusted partner for business legal solutions"
+      },
+      "story": {
+        "title": "Our Story",
+        "foundedYear": "2024",
+        "foundedLabel": "Year Founded",
+        "paragraph1": "PT Bhavendra Legal Konsultan was founded in 2024 by a group of experienced lawyers with a vision to provide affordable, high-quality legal services for small and medium businesses in Indonesia.",
+        "paragraph2": "The name \"Bhavendra\" comes from Sanskrit meaning \"King of Truth\", reflecting our commitment to uphold truth and integrity in every aspect of our legal practice.",
+        "paragraph3": "Although newly established, we have a team of experienced lawyers and legal consultants dedicated to providing the best legal solutions for our clients."
+      }
+    },
+    "portfolio": {
+      "hero": {
+        "title": "Our Portfolio",
+        "subtitle": "See our track record in providing the best legal solutions for our clients"
+      },
+      "clients": {
+        "title": "Our Clients",
+        "subtitle": "PT Bhavendra Legal Konsultan has been trusted by various leading companies and institutions in Indonesia"
+      }
     }
-}
+  }
+  
